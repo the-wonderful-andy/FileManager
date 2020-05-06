@@ -1,2 +1,4 @@
 # FileManager
- File manager implemented in Java
+> Author: HE, HAORUI  
+
+A file manager implemented in Java
